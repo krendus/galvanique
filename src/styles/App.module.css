@@ -1,0 +1,42 @@
+.container {
+    padding-top: 100px;
+}
+.topSection {
+    display: flex;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+}
+.leftTop {
+    max-width: 50%;
+    width: 50%;
+}
+.leftTop h1 {
+    font-size: 45px;
+    font-weight: 800;
+}
+.leftTop p {
+    font-size: 20px;
+    color: #444;
+    margin-top: 20px;
+}
+.leftTop h1 span {
+    color: #47b39d;
+}
+.rightTop {
+    max-width: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.rightTop img {
+    width: 500px;
+}
+@media screen and (max-width: 600px) {
+    
+}

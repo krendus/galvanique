@@ -1,0 +1,42 @@
+.container {
+    display: "flex";
+    height: 80px;
+    align-items: center;
+    background: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+}
+.logo {
+    height: 50px;
+}
+.right {
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+}
+.ready {
+    font-weight: 700;
+    font-size: 17px;
+}
+.contactBtn {
+    border-radius: 8px;
+    background: #47b39d;
+    color: #fff;
+    font-weight: 700;
+    font-size: 17px;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
