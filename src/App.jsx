@@ -135,7 +135,7 @@ function App() {
               <a href="tel:09052763301">
                 <Phone />
               </a>
-              <a href="mailto:09052763301">
+              <a href="mailto:galvaniquesolar@gmail.com">
                 <Gmail />
               </a>
             </div>
