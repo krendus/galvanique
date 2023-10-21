@@ -24,7 +24,7 @@ function App() {
   const [message, setMessage] = useState("");
   
   useEffect(() => {
-    if(!state.submitting && !success) {
+    if(!state.submitting) {
       setSuccess(true);
       setEmail("");
       setName("");
