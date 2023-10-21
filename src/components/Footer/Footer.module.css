@@ -1,0 +1,10 @@
+.krendus {
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.krendus a {
+    color: #47b39d;
+    font-weight: 700;
+    text-decoration: none;
+}

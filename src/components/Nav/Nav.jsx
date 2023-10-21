@@ -9,7 +9,7 @@ const Nav = () => {
         <img src={logo} alt="Logo" className={styles.logo} />
         <div className={styles.right}>
           <p className={styles.ready}>Ready to build?</p>
-          <button className={styles.contactBtn}>Contact us</button>
+          <a className={styles.contactBtn} href="#contact">Contact us</a>
         </div>
       </div>
     </div>
